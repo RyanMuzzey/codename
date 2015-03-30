@@ -27,7 +27,7 @@ gem 'spring',      group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-
+gem "redis"
 gem "jquery-rails"
 gem "rspec-rails", ">= 2.0.1", group: [:development, :test]
 gem "haml", ">= 3.0.0"
